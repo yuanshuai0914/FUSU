@@ -4,7 +4,9 @@ This is the dataset and code for 'FUSU: A Multi-temporal-source Land Use Change 
 
 About:
 FUSU dataset covers 5 whole urban areas, 847 km^2 located in the north and south of China, with 17 land use and land cover (LULC) classes and over 170K images and 30 billion pixels of annotations, supporting segmentation, change detection and domain adaptation tasks. This data comprises 2 parts: 
+
 1. Bi-temporal high-resolution satellite RGB images with fine-grained annotations.
+  
 2. Monthly revisited Sentinel-2 and Sentinel-1 images.
 
 ##################################################
@@ -41,6 +43,7 @@ FUSU_class = {
 '7':'industrial land','8':'orchard','9':'park','10':'public management and service','11':'commercial land','12':'public construction',
 '13':'special','14':'forest','15':'storage','16':'wetland','17':'grass'
 }
+
 PALETTE = {[255, 255, 255],[233, 133, 133],[8, 514, 230],[255, 0, 30],[126, 211, 33],[135, 126, 20],[94, 47, 4],[10, 82, 77],
 [184, 233, 134],[219, 170, 230],[255, 199, 2],[252, 232, 5],[245, 107, 0],[243, 229, 176],[3, 100, 0],[127, 123, 127],[52, 205, 249],[18, 227, 180]
 }
