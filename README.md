@@ -1,4 +1,4 @@
-This is the dataset and code for 'FUSU: A Multi-temporal-source Land Use Change Segmentation Dataset for Fine-grained Urban Semantic Understanding'.
+This is the dataset and code for 'FUSU: A Multi-temporal-source Land Use Change Segmentation Dataset for Fine-grained Urban Semantic Understanding'. (Coming soon. Please wait.)
 
 About:
 
