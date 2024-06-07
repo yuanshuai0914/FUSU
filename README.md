@@ -1,15 +1,13 @@
 This is the dataset and code for 'FUSU: A Multi-temporal-source Land Use Change Segmentation Dataset for Fine-grained Urban Semantic Understanding'.
 
-##################################################
-
 About:
+
 FUSU dataset covers 5 whole urban areas, 847 km^2 located in the north and south of China, with 17 land use and land cover (LULC) classes and over 170K images and 30 billion pixels of annotations, supporting segmentation, change detection and domain adaptation tasks. This data comprises 2 parts: 
 
 1. Bi-temporal high-resolution satellite RGB images with fine-grained annotations.
   
 2. Monthly revisited Sentinel-2 and Sentinel-1 images.
 
-##################################################
 
 Details:
 
@@ -49,4 +47,5 @@ PALETTE = {[255, 255, 255],[233, 133, 133],[8, 514, 230],[255, 0, 30],[126, 211,
 }
 
 4. Citation
+
 Yuan, S., Lin, G., Zhang, L., Dong, R., Zhang, J., Chen, S., ... & Fu, H. (2024). FUSU: A Multi-temporal-source Land Use Change Segmentation Dataset for Fine-grained Urban Semantic Understanding. arXiv preprint arXiv:2405.19055.
