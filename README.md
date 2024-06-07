@@ -24,6 +24,8 @@ The time resolution of high-resolution image is 2 years, and the Sentinel image 
 
 FUSU comprises 62,752 image patches, each containing 25 images collected from Sentinel, 2 images from Google Earth, and 2 corresponding annotations. 
 
+![image](https://github.com/yuanshuai0914/FUSU/blob/main/image/overall.png)
+
 Example:
 T1:       im1/6_255.png, im1_label/6_255.png
 T2:       im2/6_255.png, im2_label/6_255.png
