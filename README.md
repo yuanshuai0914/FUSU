@@ -10,6 +10,9 @@ Google Drive:
 Pengcheng starcloud:
 [Full data download](https://data-starcloud.pcl.ac.cn/zh/resource/57)
 
+HuggingFace:
+[Full data download] -- to do
+
 ![image](https://github.com/yuanshuai0914/FUSU/blob/main/image/fusu.png)
 
 This is the dataset and code for FUSU. (Coming soon. Please wait.)
