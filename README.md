@@ -1,9 +1,13 @@
 FUSU: A Multi-temporal-source Land Use Change Segmentation Dataset for Fine-grained Urban Semantic Understanding
 
+Baidu Ndisk:
 [sample download](https://pan.baidu.com/s/1u7A_duHj61O507xnUWZSDg?pwd=s7um)
 code: s7um 
 
-[data download](https://data-starcloud.pcl.ac.cn/zh/resource/57)
+Google Drive:
+[sample download](https://drive.google.com/file/d/1x6pJO9IT4STzTlG85UKCvx3qudBgan9Q/view?usp=drive_link)
+
+[Full data download](https://data-starcloud.pcl.ac.cn/zh/resource/57)
 
 ![image](https://github.com/yuanshuai0914/FUSU/blob/main/image/fusu.png)
 
