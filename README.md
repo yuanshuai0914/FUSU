@@ -68,3 +68,10 @@ PALETTE = {[255, 255, 255],[233, 133, 133],[8, 514, 230],[255, 0, 30],[126, 211,
 4. Citation
 
 Yuan, S., Lin, G., Zhang, L., Dong, R., Zhang, J., Chen, S., ... & Fu, H. (2024). FUSU: A Multi-temporal-source Land Use Change Segmentation Dataset for Fine-grained Urban Semantic Understanding. arXiv preprint arXiv:2405.19055.
+
+
+Acknowledgement
+
+Thanks for the previous interesting work from:
+- https://github.com/IGNF/FLAIR-2
+- https://github.com/LiheYoung/SenseEarth2020-ChangeDetection
