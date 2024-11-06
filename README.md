@@ -74,4 +74,3 @@ Acknowledgement
 
 Thanks for the previous interesting work from:
 - https://github.com/IGNF/FLAIR-2
-- https://github.com/LiheYoung/SenseEarth2020-ChangeDetection
