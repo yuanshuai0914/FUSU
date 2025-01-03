@@ -11,7 +11,8 @@ Pengcheng starcloud:
 [Full data download](https://data-starcloud.pcl.ac.cn/zh/resource/57)
 
 HuggingFace:
-[Full data download] -- to do
+[High-resolution image/label download](https://huggingface.co/datasets/sp-juni/FUSU-Fine_grained_Urban_Semantic_Understanding)
+[Sentinel image download]--to do
 
 ![image](https://github.com/yuanshuai0914/FUSU/blob/main/image/fusu.png)
 
